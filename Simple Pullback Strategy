@@ -1,3 +1,4 @@
+#PineScript 60% Win rate Strategy Copy and Paste this into your TradingView and Allow it to do it's thing
 strategy("Simple Pullback Strategy", 
      overlay=true, 
      initial_capital=50000,
